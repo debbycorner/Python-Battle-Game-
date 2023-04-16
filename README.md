@@ -1,2 +1,3 @@
 # Python-Battle-Game-
-Warrior vs. Mysterious Villain
+Title: Warrior vs. Mysterious Villain
+A 
