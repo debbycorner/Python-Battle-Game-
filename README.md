@@ -1,6 +1,6 @@
 # Python-Battle-Game-
 Title: Warrior Hero vs. Mysterious Villain
-A Python Terminal game created through the inspiration of a popular Battle Game by Nintendo.
+A Python Terminal based game created through the inspiration of a popular Battle Game by Nintendo.
 
 Story Background: In a Vast Secret Land, deep in the forrest, dwells a town of peacefull villagers. The villagers live peacefully, because they are proctected by a brave warrior who wards of all of the mysterious evil villans. Unfortunately the brave warrior passes away, and the town is now in fear. A brave protagonist arise to battle against all of the village's mysterious villians. Who is brave enough to do this? The town nominates you.
 
@@ -14,3 +14,6 @@ Features of this Terminal Game:
 ● Random integrer via rolling the dice to determine which monster to fight
 ● Allow caracter to pick from a list to chose their weapon.
 ● Battle game story line with a if/else statements to determine the outcomes
+
+
+My 
