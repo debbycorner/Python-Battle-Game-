@@ -9,11 +9,19 @@ Game Plot: The player (protagonist) will be tasked with carefully choosing a wea
 During the game the player will name their character and roll dice to see which villian they will be fighting. Either a very small but mighty dragon named Mo or Giant Griffen names Paul. Once you know what you are up against you can choose a weapon; explosive bombs, swords, or arrows. You are now ready to battle. 
 
 Features of this Terminal Game: 
+
 ● Input functions to gather the individuals name
+
 ● Assign the name to a character and use print to start the story
+
 ● Random integrer via rolling the dice to determine which monster to fight
+
 ● Allow caracter to pick from a list to chose their weapon.
+
 ● Battle game story line with a if/else statements to determine the outcomes
 
 
-My 
+
+
+
+
